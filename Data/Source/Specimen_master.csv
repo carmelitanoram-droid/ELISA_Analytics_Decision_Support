@@ -1,0 +1,181 @@
+﻿SpecimenID,SubjectID,CollectionSite,Matrix,CollectionDate,ReceiptDate,ReferenceMethod,ReferenceStatus,ChallengeSpecimen
+SPM-26-0001,SUBJ-0001,SITE-BLR-01,Serum,2026-03-29,2026-03-31,Comparator PCR/clinical composite,Negative,N
+SPM-26-0002,SUBJ-0002,SITE-PUN-03,Serum,2026-04-10,2026-04-12,Comparator PCR/clinical composite,Negative,N
+SPM-26-0003,SUBJ-0003,SITE-PUN-03,Serum,2026-04-01,2026-04-01,Comparator PCR/clinical composite,Negative,N
+SPM-26-0004,SUBJ-0004,SITE-BLR-01,Serum,2026-05-02,2026-05-02,Comparator PCR/clinical composite,Positive,Y
+SPM-26-0005,SUBJ-0005,SITE-HYD-02,K2EDTA Plasma,2026-04-12,2026-04-12,Comparator PCR/clinical composite,Negative,N
+SPM-26-0006,SUBJ-0006,SITE-HYD-02,Serum,2026-04-05,2026-04-07,Comparator PCR/clinical composite,Negative,N
+SPM-26-0007,SUBJ-0007,SITE-BLR-01,Serum,2026-03-25,2026-03-27,Comparator PCR/clinical composite,Positive,N
+SPM-26-0008,SUBJ-0008,SITE-BLR-01,Serum,2026-04-13,2026-04-13,Comparator PCR/clinical composite,Negative,N
+SPM-26-0009,SUBJ-0009,SITE-PUN-03,K2EDTA Plasma,2026-04-26,2026-04-28,Comparator PCR/clinical composite,Negative,N
+SPM-26-0010,SUBJ-0010,SITE-BLR-01,Serum,2026-04-07,2026-04-07,Comparator PCR/clinical composite,Negative,N
+SPM-26-0011,SUBJ-0011,SITE-BLR-01,Serum,2026-03-30,2026-04-01,Comparator PCR/clinical composite,Positive,N
+SPM-26-0012,SUBJ-0012,SITE-BLR-01,Serum,2026-04-08,2026-04-08,Comparator PCR/clinical composite,Positive,N
+SPM-26-0013,SUBJ-0013,SITE-BLR-01,Serum,2026-05-01,2026-05-03,Comparator PCR/clinical composite,Negative,N
+SPM-26-0014,SUBJ-0014,SITE-PUN-03,Serum,2026-04-19,2026-04-19,Comparator PCR/clinical composite,Negative,N
+SPM-26-0015,SUBJ-0015,SITE-HYD-02,Serum,2026-04-30,2026-05-01,Comparator PCR/clinical composite,Positive,N
+SPM-26-0016,SUBJ-0016,SITE-BLR-01,K2EDTA Plasma,2026-04-03,2026-04-05,Comparator PCR/clinical composite,Negative,N
+SPM-26-0017,SUBJ-0017,SITE-HYD-02,K2EDTA Plasma,2026-04-05,2026-04-06,Comparator PCR/clinical composite,Negative,N
+SPM-26-0018,SUBJ-0018,SITE-BLR-01,K2EDTA Plasma,2026-04-08,2026-04-09,Comparator PCR/clinical composite,Negative,N
+SPM-26-0019,SUBJ-0019,SITE-PUN-03,Serum,2026-05-03,2026-05-04,Comparator PCR/clinical composite,Positive,N
+SPM-26-0020,SUBJ-0020,SITE-PUN-03,Serum,2026-04-30,2026-05-02,Comparator PCR/clinical composite,Negative,N
+SPM-26-0021,SUBJ-0021,SITE-BLR-01,K2EDTA Plasma,2026-05-03,2026-05-03,Comparator PCR/clinical composite,Negative,N
+SPM-26-0022,SUBJ-0022,SITE-BLR-01,Serum,2026-04-09,2026-04-09,Comparator PCR/clinical composite,Positive,N
+SPM-26-0023,SUBJ-0023,SITE-HYD-02,Serum,2026-04-20,2026-04-22,Comparator PCR/clinical composite,Positive,N
+SPM-26-0024,SUBJ-0024,SITE-PUN-03,Serum,2026-03-26,2026-03-27,Comparator PCR/clinical composite,Positive,N
+SPM-26-0025,SUBJ-0025,SITE-BLR-01,Serum,2026-04-21,2026-04-21,Comparator PCR/clinical composite,Negative,N
+SPM-26-0026,SUBJ-0026,SITE-PUN-03,K2EDTA Plasma,2026-04-28,2026-04-30,Comparator PCR/clinical composite,Negative,N
+SPM-26-0027,SUBJ-0027,SITE-BLR-01,Serum,2026-03-28,2026-03-29,Comparator PCR/clinical composite,Positive,N
+SPM-26-0028,SUBJ-0028,SITE-BLR-01,K2EDTA Plasma,2026-04-13,2026-04-15,Comparator PCR/clinical composite,Negative,N
+SPM-26-0029,SUBJ-0029,SITE-BLR-01,K2EDTA Plasma,2026-04-29,2026-04-29,Comparator PCR/clinical composite,Positive,N
+SPM-26-0030,SUBJ-0030,SITE-BLR-01,Serum,2026-04-06,2026-04-06,Comparator PCR/clinical composite,Negative,N
+SPM-26-0031,SUBJ-0031,SITE-PUN-03,Serum,2026-04-07,2026-04-08,Comparator PCR/clinical composite,Positive,N
+SPM-26-0032,SUBJ-0032,SITE-PUN-03,K2EDTA Plasma,2026-04-23,2026-04-23,Comparator PCR/clinical composite,Positive,Y
+SPM-26-0033,SUBJ-0033,SITE-PUN-03,Serum,2026-04-08,2026-04-10,Comparator PCR/clinical composite,Positive,N
+SPM-26-0034,SUBJ-0034,SITE-BLR-01,Serum,2026-03-28,2026-03-29,Comparator PCR/clinical composite,Negative,N
+SPM-26-0035,SUBJ-0035,SITE-BLR-01,K2EDTA Plasma,2026-04-24,2026-04-24,Comparator PCR/clinical composite,Positive,N
+SPM-26-0036,SUBJ-0036,SITE-HYD-02,Serum,2026-04-24,2026-04-26,Comparator PCR/clinical composite,Negative,N
+SPM-26-0037,SUBJ-0037,SITE-BLR-01,Serum,2026-03-29,2026-03-29,Comparator PCR/clinical composite,Positive,N
+SPM-26-0038,SUBJ-0038,SITE-HYD-02,Serum,2026-04-29,2026-04-29,Comparator PCR/clinical composite,Negative,N
+SPM-26-0039,SUBJ-0039,SITE-HYD-02,Serum,2026-05-01,2026-05-01,Comparator PCR/clinical composite,Negative,N
+SPM-26-0040,SUBJ-0040,SITE-BLR-01,K2EDTA Plasma,2026-05-01,2026-05-01,Comparator PCR/clinical composite,Negative,N
+SPM-26-0041,SUBJ-0041,SITE-PUN-03,Serum,2026-04-15,2026-04-15,Comparator PCR/clinical composite,Positive,N
+SPM-26-0042,SUBJ-0042,SITE-BLR-01,Serum,2026-03-26,2026-03-26,Comparator PCR/clinical composite,Negative,N
+SPM-26-0043,SUBJ-0043,SITE-BLR-01,Serum,2026-03-26,2026-03-28,Comparator PCR/clinical composite,Negative,N
+SPM-26-0044,SUBJ-0044,SITE-BLR-01,Serum,2026-04-05,2026-04-05,Comparator PCR/clinical composite,Negative,N
+SPM-26-0045,SUBJ-0045,SITE-BLR-01,Serum,2026-04-12,2026-04-14,Comparator PCR/clinical composite,Negative,N
+SPM-26-0046,SUBJ-0046,SITE-BLR-01,Serum,2026-03-26,2026-03-27,Comparator PCR/clinical composite,Negative,N
+SPM-26-0047,SUBJ-0047,SITE-BLR-01,Serum,2026-04-12,2026-04-14,Comparator PCR/clinical composite,Positive,N
+SPM-26-0048,SUBJ-0048,SITE-HYD-02,K2EDTA Plasma,2026-04-13,2026-04-13,Comparator PCR/clinical composite,Negative,N
+SPM-26-0049,SUBJ-0049,SITE-PUN-03,Serum,2026-04-03,2026-04-05,Comparator PCR/clinical composite,Negative,N
+SPM-26-0050,SUBJ-0050,SITE-PUN-03,Serum,2026-04-20,2026-04-22,Comparator PCR/clinical composite,Negative,N
+SPM-26-0051,SUBJ-0051,SITE-BLR-01,K2EDTA Plasma,2026-04-19,2026-04-19,Comparator PCR/clinical composite,Negative,N
+SPM-26-0052,SUBJ-0052,SITE-BLR-01,Serum,2026-04-30,2026-05-02,Comparator PCR/clinical composite,Negative,N
+SPM-26-0053,SUBJ-0053,SITE-HYD-02,Serum,2026-04-26,2026-04-26,Comparator PCR/clinical composite,Negative,N
+SPM-26-0054,SUBJ-0054,SITE-PUN-03,K2EDTA Plasma,2026-04-12,2026-04-12,Comparator PCR/clinical composite,Positive,N
+SPM-26-0055,SUBJ-0055,SITE-HYD-02,Serum,2026-04-05,2026-04-07,Comparator PCR/clinical composite,Negative,N
+SPM-26-0056,SUBJ-0056,SITE-BLR-01,Serum,2026-04-10,2026-04-10,Comparator PCR/clinical composite,Positive,N
+SPM-26-0057,SUBJ-0057,SITE-PUN-03,Serum,2026-03-28,2026-03-28,Comparator PCR/clinical composite,Negative,N
+SPM-26-0058,SUBJ-0058,SITE-PUN-03,K2EDTA Plasma,2026-04-10,2026-04-12,Comparator PCR/clinical composite,Positive,N
+SPM-26-0059,SUBJ-0059,SITE-HYD-02,Serum,2026-04-12,2026-04-12,Comparator PCR/clinical composite,Positive,N
+SPM-26-0060,SUBJ-0060,SITE-BLR-01,K2EDTA Plasma,2026-04-12,2026-04-12,Comparator PCR/clinical composite,Negative,N
+SPM-26-0061,SUBJ-0061,SITE-BLR-01,Serum,2026-04-17,2026-04-18,Comparator PCR/clinical composite,Positive,N
+SPM-26-0062,SUBJ-0062,SITE-BLR-01,Serum,2026-04-07,2026-04-08,Comparator PCR/clinical composite,Positive,N
+SPM-26-0063,SUBJ-0063,SITE-HYD-02,Serum,2026-04-26,2026-04-26,Comparator PCR/clinical composite,Negative,N
+SPM-26-0064,SUBJ-0064,SITE-HYD-02,Serum,2026-04-02,2026-04-03,Comparator PCR/clinical composite,Positive,N
+SPM-26-0065,SUBJ-0065,SITE-PUN-03,Serum,2026-04-19,2026-04-19,Comparator PCR/clinical composite,Negative,N
+SPM-26-0066,SUBJ-0066,SITE-BLR-01,K2EDTA Plasma,2026-03-30,2026-04-01,Comparator PCR/clinical composite,Negative,N
+SPM-26-0067,SUBJ-0067,SITE-HYD-02,K2EDTA Plasma,2026-03-29,2026-03-30,Comparator PCR/clinical composite,Negative,N
+SPM-26-0068,SUBJ-0068,SITE-HYD-02,K2EDTA Plasma,2026-04-24,2026-04-25,Comparator PCR/clinical composite,Negative,Y
+SPM-26-0069,SUBJ-0069,SITE-BLR-01,K2EDTA Plasma,2026-03-31,2026-04-01,Comparator PCR/clinical composite,Positive,N
+SPM-26-0070,SUBJ-0070,SITE-PUN-03,Serum,2026-04-06,2026-04-06,Comparator PCR/clinical composite,Negative,N
+SPM-26-0071,SUBJ-0071,SITE-HYD-02,Serum,2026-03-31,2026-04-01,Comparator PCR/clinical composite,Positive,N
+SPM-26-0072,SUBJ-0072,SITE-PUN-03,Serum,2026-04-04,2026-04-04,Comparator PCR/clinical composite,Negative,N
+SPM-26-0073,SUBJ-0073,SITE-BLR-01,Serum,2026-04-29,2026-04-29,Comparator PCR/clinical composite,Negative,N
+SPM-26-0074,SUBJ-0074,SITE-HYD-02,Serum,2026-04-26,2026-04-26,Comparator PCR/clinical composite,Negative,N
+SPM-26-0075,SUBJ-0075,SITE-PUN-03,Serum,2026-04-13,2026-04-13,Comparator PCR/clinical composite,Positive,N
+SPM-26-0076,SUBJ-0076,SITE-BLR-01,Serum,2026-04-19,2026-04-20,Comparator PCR/clinical composite,Positive,Y
+SPM-26-0077,SUBJ-0077,SITE-HYD-02,K2EDTA Plasma,2026-04-15,2026-04-16,Comparator PCR/clinical composite,Negative,N
+SPM-26-0078,SUBJ-0078,SITE-PUN-03,Serum,2026-04-28,2026-04-28,Comparator PCR/clinical composite,Positive,Y
+SPM-26-0079,SUBJ-0079,SITE-HYD-02,K2EDTA Plasma,2026-03-26,2026-03-27,Comparator PCR/clinical composite,Negative,N
+SPM-26-0080,SUBJ-0080,SITE-BLR-01,K2EDTA Plasma,2026-04-06,2026-04-06,Comparator PCR/clinical composite,Positive,Y
+SPM-26-0081,SUBJ-0081,SITE-BLR-01,Serum,2026-04-10,2026-04-12,Comparator PCR/clinical composite,Negative,N
+SPM-26-0082,SUBJ-0082,SITE-HYD-02,Serum,2026-03-28,2026-03-29,Comparator PCR/clinical composite,Positive,N
+SPM-26-0083,SUBJ-0083,SITE-HYD-02,K2EDTA Plasma,2026-03-27,2026-03-27,Comparator PCR/clinical composite,Negative,N
+SPM-26-0084,SUBJ-0084,SITE-HYD-02,Serum,2026-04-28,2026-04-30,Comparator PCR/clinical composite,Positive,N
+SPM-26-0085,SUBJ-0085,SITE-BLR-01,Serum,2026-04-28,2026-04-29,Comparator PCR/clinical composite,Positive,N
+SPM-26-0086,SUBJ-0086,SITE-PUN-03,Serum,2026-04-10,2026-04-11,Comparator PCR/clinical composite,Negative,N
+SPM-26-0087,SUBJ-0087,SITE-BLR-01,K2EDTA Plasma,2026-04-03,2026-04-04,Comparator PCR/clinical composite,Negative,N
+SPM-26-0088,SUBJ-0088,SITE-HYD-02,Serum,2026-04-21,2026-04-22,Comparator PCR/clinical composite,Positive,N
+SPM-26-0089,SUBJ-0089,SITE-HYD-02,Serum,2026-03-31,2026-04-01,Comparator PCR/clinical composite,Negative,N
+SPM-26-0090,SUBJ-0090,SITE-PUN-03,Serum,2026-04-23,2026-04-24,Comparator PCR/clinical composite,Negative,N
+SPM-26-0091,SUBJ-0091,SITE-BLR-01,Serum,2026-04-09,2026-04-11,Comparator PCR/clinical composite,Negative,Y
+SPM-26-0092,SUBJ-0092,SITE-HYD-02,Serum,2026-04-14,2026-04-15,Comparator PCR/clinical composite,Negative,N
+SPM-26-0093,SUBJ-0093,SITE-BLR-01,Serum,2026-03-29,2026-03-31,Comparator PCR/clinical composite,Negative,N
+SPM-26-0094,SUBJ-0094,SITE-HYD-02,K2EDTA Plasma,2026-04-25,2026-04-26,Comparator PCR/clinical composite,Negative,N
+SPM-26-0095,SUBJ-0095,SITE-BLR-01,Serum,2026-04-13,2026-04-14,Comparator PCR/clinical composite,Negative,Y
+SPM-26-0096,SUBJ-0096,SITE-BLR-01,Serum,2026-04-05,2026-04-07,Comparator PCR/clinical composite,Negative,N
+SPM-26-0097,SUBJ-0097,SITE-BLR-01,Serum,2026-05-01,2026-05-01,Comparator PCR/clinical composite,Positive,N
+SPM-26-0098,SUBJ-0098,SITE-BLR-01,Serum,2026-05-03,2026-05-04,Comparator PCR/clinical composite,Negative,N
+SPM-26-0099,SUBJ-0099,SITE-BLR-01,Serum,2026-03-30,2026-03-30,Comparator PCR/clinical composite,Negative,N
+SPM-26-0100,SUBJ-0100,SITE-PUN-03,Serum,2026-04-12,2026-04-13,Comparator PCR/clinical composite,Negative,N
+SPM-26-0101,SUBJ-0101,SITE-BLR-01,Serum,2026-04-25,2026-04-25,Comparator PCR/clinical composite,Negative,Y
+SPM-26-0102,SUBJ-0102,SITE-BLR-01,Serum,2026-04-02,2026-04-04,Comparator PCR/clinical composite,Negative,N
+SPM-26-0103,SUBJ-0103,SITE-HYD-02,Serum,2026-04-17,2026-04-18,Comparator PCR/clinical composite,Negative,N
+SPM-26-0104,SUBJ-0104,SITE-PUN-03,K2EDTA Plasma,2026-04-03,2026-04-05,Comparator PCR/clinical composite,Positive,Y
+SPM-26-0105,SUBJ-0105,SITE-BLR-01,Serum,2026-04-04,2026-04-06,Comparator PCR/clinical composite,Positive,N
+SPM-26-0106,SUBJ-0106,SITE-PUN-03,Serum,2026-04-07,2026-04-09,Comparator PCR/clinical composite,Positive,N
+SPM-26-0107,SUBJ-0107,SITE-HYD-02,K2EDTA Plasma,2026-04-10,2026-04-10,Comparator PCR/clinical composite,Negative,Y
+SPM-26-0108,SUBJ-0108,SITE-BLR-01,Serum,2026-03-31,2026-03-31,Comparator PCR/clinical composite,Negative,N
+SPM-26-0109,SUBJ-0109,SITE-PUN-03,Serum,2026-04-13,2026-04-14,Comparator PCR/clinical composite,Negative,N
+SPM-26-0110,SUBJ-0110,SITE-HYD-02,K2EDTA Plasma,2026-03-28,2026-03-29,Comparator PCR/clinical composite,Negative,N
+SPM-26-0111,SUBJ-0111,SITE-BLR-01,K2EDTA Plasma,2026-05-03,2026-05-03,Comparator PCR/clinical composite,Positive,N
+SPM-26-0112,SUBJ-0112,SITE-HYD-02,K2EDTA Plasma,2026-04-08,2026-04-09,Comparator PCR/clinical composite,Positive,N
+SPM-26-0113,SUBJ-0113,SITE-BLR-01,Serum,2026-04-10,2026-04-10,Comparator PCR/clinical composite,Negative,N
+SPM-26-0114,SUBJ-0114,SITE-HYD-02,Serum,2026-04-26,2026-04-26,Comparator PCR/clinical composite,Positive,N
+SPM-26-0115,SUBJ-0115,SITE-BLR-01,Serum,2026-05-01,2026-05-01,Comparator PCR/clinical composite,Negative,N
+SPM-26-0116,SUBJ-0116,SITE-BLR-01,Serum,2026-03-30,2026-04-01,Comparator PCR/clinical composite,Negative,N
+SPM-26-0117,SUBJ-0117,SITE-HYD-02,Serum,2026-03-31,2026-03-31,Comparator PCR/clinical composite,Positive,N
+SPM-26-0118,SUBJ-0118,SITE-PUN-03,Serum,2026-04-12,2026-04-13,Comparator PCR/clinical composite,Positive,N
+SPM-26-0119,SUBJ-0119,SITE-PUN-03,Serum,2026-04-22,2026-04-23,Comparator PCR/clinical composite,Negative,N
+SPM-26-0120,SUBJ-0120,SITE-HYD-02,Serum,2026-05-02,2026-05-02,Comparator PCR/clinical composite,Negative,N
+SPM-26-0121,SUBJ-0121,SITE-HYD-02,Serum,2026-04-13,2026-04-14,Comparator PCR/clinical composite,Positive,Y
+SPM-26-0122,SUBJ-0122,SITE-HYD-02,K2EDTA Plasma,2026-03-26,2026-03-28,Comparator PCR/clinical composite,Negative,N
+SPM-26-0123,SUBJ-0123,SITE-PUN-03,K2EDTA Plasma,2026-04-18,2026-04-20,Comparator PCR/clinical composite,Negative,N
+SPM-26-0124,SUBJ-0124,SITE-BLR-01,Serum,2026-04-27,2026-04-29,Comparator PCR/clinical composite,Positive,N
+SPM-26-0125,SUBJ-0125,SITE-BLR-01,Serum,2026-04-14,2026-04-15,Comparator PCR/clinical composite,Negative,N
+SPM-26-0126,SUBJ-0126,SITE-PUN-03,Serum,2026-04-13,2026-04-13,Comparator PCR/clinical composite,Negative,N
+SPM-26-0127,SUBJ-0127,SITE-HYD-02,Serum,2026-03-30,2026-03-30,Comparator PCR/clinical composite,Negative,N
+SPM-26-0128,SUBJ-0128,SITE-HYD-02,Serum,2026-04-20,2026-04-22,Comparator PCR/clinical composite,Negative,N
+SPM-26-0129,SUBJ-0129,SITE-BLR-01,Serum,2026-04-28,2026-04-28,Comparator PCR/clinical composite,Positive,N
+SPM-26-0130,SUBJ-0130,SITE-PUN-03,Serum,2026-04-26,2026-04-27,Comparator PCR/clinical composite,Positive,N
+SPM-26-0131,SUBJ-0131,SITE-PUN-03,Serum,2026-04-26,2026-04-27,Comparator PCR/clinical composite,Negative,N
+SPM-26-0132,SUBJ-0132,SITE-BLR-01,Serum,2026-05-02,2026-05-03,Comparator PCR/clinical composite,Positive,N
+SPM-26-0133,SUBJ-0133,SITE-BLR-01,Serum,2026-04-15,2026-04-16,Comparator PCR/clinical composite,Negative,Y
+SPM-26-0134,SUBJ-0134,SITE-BLR-01,Serum,2026-03-29,2026-03-31,Comparator PCR/clinical composite,Positive,N
+SPM-26-0135,SUBJ-0135,SITE-HYD-02,K2EDTA Plasma,2026-04-17,2026-04-19,Comparator PCR/clinical composite,Negative,N
+SPM-26-0136,SUBJ-0136,SITE-HYD-02,K2EDTA Plasma,2026-04-30,2026-05-02,Comparator PCR/clinical composite,Positive,N
+SPM-26-0137,SUBJ-0137,SITE-HYD-02,Serum,2026-04-23,2026-04-23,Comparator PCR/clinical composite,Negative,N
+SPM-26-0138,SUBJ-0138,SITE-PUN-03,K2EDTA Plasma,2026-03-29,2026-03-29,Comparator PCR/clinical composite,Positive,N
+SPM-26-0139,SUBJ-0139,SITE-BLR-01,K2EDTA Plasma,2026-03-25,2026-03-26,Comparator PCR/clinical composite,Positive,N
+SPM-26-0140,SUBJ-0140,SITE-BLR-01,K2EDTA Plasma,2026-03-30,2026-03-30,Comparator PCR/clinical composite,Negative,N
+SPM-26-0141,SUBJ-0141,SITE-HYD-02,Serum,2026-03-28,2026-03-30,Comparator PCR/clinical composite,Positive,N
+SPM-26-0142,SUBJ-0142,SITE-HYD-02,K2EDTA Plasma,2026-04-27,2026-04-28,Comparator PCR/clinical composite,Negative,N
+SPM-26-0143,SUBJ-0143,SITE-HYD-02,Serum,2026-04-20,2026-04-21,Comparator PCR/clinical composite,Positive,N
+SPM-26-0144,SUBJ-0144,SITE-PUN-03,K2EDTA Plasma,2026-04-02,2026-04-03,Comparator PCR/clinical composite,Positive,N
+SPM-26-0145,SUBJ-0145,SITE-PUN-03,Serum,2026-03-30,2026-03-30,Comparator PCR/clinical composite,Negative,N
+SPM-26-0146,SUBJ-0146,SITE-HYD-02,Serum,2026-04-13,2026-04-14,Comparator PCR/clinical composite,Positive,N
+SPM-26-0147,SUBJ-0147,SITE-HYD-02,Serum,2026-04-09,2026-04-09,Comparator PCR/clinical composite,Negative,N
+SPM-26-0148,SUBJ-0148,SITE-BLR-01,Serum,2026-05-02,2026-05-02,Comparator PCR/clinical composite,Negative,N
+SPM-26-0149,SUBJ-0149,SITE-BLR-01,Serum,2026-04-19,2026-04-19,Comparator PCR/clinical composite,Negative,N
+SPM-26-0150,SUBJ-0150,SITE-HYD-02,Serum,2026-04-05,2026-04-06,Comparator PCR/clinical composite,Positive,N
+SPM-26-0151,SUBJ-0151,SITE-BLR-01,Serum,2026-04-22,2026-04-24,Comparator PCR/clinical composite,Positive,N
+SPM-26-0152,SUBJ-0152,SITE-BLR-01,Serum,2026-04-06,2026-04-06,Comparator PCR/clinical composite,Positive,N
+SPM-26-0153,SUBJ-0153,SITE-PUN-03,Serum,2026-04-10,2026-04-11,Comparator PCR/clinical composite,Positive,N
+SPM-26-0154,SUBJ-0154,SITE-PUN-03,Serum,2026-04-18,2026-04-20,Comparator PCR/clinical composite,Negative,N
+SPM-26-0155,SUBJ-0155,SITE-HYD-02,K2EDTA Plasma,2026-04-24,2026-04-25,Comparator PCR/clinical composite,Positive,N
+SPM-26-0156,SUBJ-0156,SITE-BLR-01,K2EDTA Plasma,2026-04-14,2026-04-14,Comparator PCR/clinical composite,Positive,N
+SPM-26-0157,SUBJ-0157,SITE-BLR-01,K2EDTA Plasma,2026-04-05,2026-04-06,Comparator PCR/clinical composite,Negative,N
+SPM-26-0158,SUBJ-0158,SITE-PUN-03,Serum,2026-03-30,2026-03-30,Comparator PCR/clinical composite,Positive,N
+SPM-26-0159,SUBJ-0159,SITE-PUN-03,Serum,2026-04-18,2026-04-18,Comparator PCR/clinical composite,Positive,N
+SPM-26-0160,SUBJ-0160,SITE-BLR-01,Serum,2026-05-03,2026-05-04,Comparator PCR/clinical composite,Positive,Y
+SPM-26-0161,SUBJ-0161,SITE-HYD-02,Serum,2026-04-07,2026-04-08,Comparator PCR/clinical composite,Negative,Y
+SPM-26-0162,SUBJ-0162,SITE-BLR-01,Serum,2026-04-28,2026-04-28,Comparator PCR/clinical composite,Negative,N
+SPM-26-0163,SUBJ-0163,SITE-BLR-01,Serum,2026-04-13,2026-04-15,Comparator PCR/clinical composite,Positive,N
+SPM-26-0164,SUBJ-0164,SITE-HYD-02,K2EDTA Plasma,2026-05-03,2026-05-04,Comparator PCR/clinical composite,Negative,N
+SPM-26-0165,SUBJ-0165,SITE-PUN-03,Serum,2026-04-14,2026-04-14,Comparator PCR/clinical composite,Negative,N
+SPM-26-0166,SUBJ-0166,SITE-HYD-02,Serum,2026-04-26,2026-04-28,Comparator PCR/clinical composite,Negative,N
+SPM-26-0167,SUBJ-0167,SITE-BLR-01,Serum,2026-04-06,2026-04-08,Comparator PCR/clinical composite,Negative,N
+SPM-26-0168,SUBJ-0168,SITE-BLR-01,Serum,2026-04-28,2026-04-28,Comparator PCR/clinical composite,Positive,N
+SPM-26-0169,SUBJ-0169,SITE-HYD-02,K2EDTA Plasma,2026-04-07,2026-04-08,Comparator PCR/clinical composite,Positive,N
+SPM-26-0170,SUBJ-0170,SITE-BLR-01,Serum,2026-04-06,2026-04-07,Comparator PCR/clinical composite,Negative,N
+SPM-26-0171,SUBJ-0171,SITE-BLR-01,Serum,2026-03-28,2026-03-30,Comparator PCR/clinical composite,Positive,N
+SPM-26-0172,SUBJ-0172,SITE-HYD-02,K2EDTA Plasma,2026-04-26,2026-04-26,Comparator PCR/clinical composite,Negative,Y
+SPM-26-0173,SUBJ-0173,SITE-BLR-01,Serum,2026-03-26,2026-03-26,Comparator PCR/clinical composite,Positive,N
+SPM-26-0174,SUBJ-0174,SITE-PUN-03,Serum,2026-04-27,2026-04-29,Comparator PCR/clinical composite,Negative,N
+SPM-26-0175,SUBJ-0175,SITE-BLR-01,Serum,2026-04-14,2026-04-15,Comparator PCR/clinical composite,Negative,N
+SPM-26-0176,SUBJ-0176,SITE-HYD-02,Serum,2026-03-31,2026-04-01,Comparator PCR/clinical composite,Negative,N
+SPM-26-0177,SUBJ-0177,SITE-BLR-01,Serum,2026-04-12,2026-04-14,Comparator PCR/clinical composite,Positive,N
+SPM-26-0178,SUBJ-0178,SITE-PUN-03,Serum,2026-04-04,2026-04-04,Comparator PCR/clinical composite,Negative,Y
+SPM-26-0179,SUBJ-0179,SITE-BLR-01,Serum,2026-03-28,2026-03-28,Comparator PCR/clinical composite,Negative,N
+SPM-26-0180,SUBJ-0180,SITE-BLR-01,Serum,2026-04-13,2026-04-13,Comparator PCR/clinical composite,Positive,N
