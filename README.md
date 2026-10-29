@@ -20,7 +20,7 @@ The project combines **scientific domain knowledge with SQL, Python, statistics 
 
 ## Dashboard Preview
 
-![ELISA Analytics & Decision-Support Dashboard](Images/ELISA Analytics_dashboard.png)
+![ELISA Analytics & Decision-Support Dashboard](Images/ELISA_Analytics_dashboard.png)
 
 The Power BI dashboard provides an interactive view of specimen outcomes, plate validity and potential performance factors such as receipt delay, reagent lot, operator, instrument, matrix and collection site.
 
@@ -186,7 +186,7 @@ elisa-analytics-decision-support/
 │   └── ELISA_Analytics_Dashboard.pbix
 │
 ├── Images/
-│   └── ELISA Analytics_dashboard.png
+│   └── ELISA_Analytics_dashboard.png
 │
 └── Report/
     └── ELISA_Analytics_Decision_Support_Report.pdf
