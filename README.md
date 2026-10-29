@@ -20,13 +20,13 @@ The project combines **scientific domain knowledge with SQL, Python, statistics 
 
 ## Dashboard Preview
 
-![ELISA Analytics & Decision-Support Dashboard](images/elisa_dashboard.png)
+![ELISA Analytics & Decision-Support Dashboard](Images/ELISA Analytics_dashboard.png)
 
 The Power BI dashboard provides an interactive view of specimen outcomes, plate validity and potential performance factors such as receipt delay, reagent lot, operator, instrument, matrix and collection site.
 
 The dashboard serves as the **monitoring and communication layer**; QC logic, data integration and statistical evaluation are performed upstream using SQL and Python.
 
-**Power BI file:** [`powerbi/ELISA_Analytics_Dashboard.pbix`](powerbi/ELISA_Analytics_Dashboard.pbix)
+**Power BI file:** [`PowerBI/ELISA_Analytics_Dashboard.pbix`](PowerBI/ELISA_Analytics_Dashboard.pbix)
 
 ---
 
@@ -161,34 +161,34 @@ elisa-analytics-decision-support/
 │
 ├── README.md
 │
-├── data/
-│   ├── source/
+├── Data/
+│   ├── Source/
 │   │   ├── Run_Metadata.csv
 │   │   ├── Plate_Controls.csv
 │   │   ├── Calibrators.csv
 │   │   ├── Sample_Wells.csv
 │   │   └── Specimen_Master.csv
-│   ├── processed/
+│   ├── Processed/
 │   │   └── Final_Specimen_Metadata.csv
 │   └── README.md
 │
-├── sql/
+├── SQL/
 │   ├── 01_data_integrity_traceability.sql
 │   ├── 02_plate_qc.sql
 │   ├── 03_specimen_qc.sql
 │   ├── 04_final_analytical_dataset.sql
 │   └── 05_performance_factor_analysis.sql
 │
-├── python/
+├── Python/
 │   └── ELISA_Statistical_Analysis.ipynb
 │
-├── powerbi/
+├── PowerBI/
 │   └── ELISA_Analytics_Dashboard.pbix
 │
-├── images/
-│   └── elisa_dashboard.png
+├── Images/
+│   └── ELISA Analytics_dashboard.png
 │
-└── report/
+└── Report/
     └── ELISA_Analytics_Decision_Support_Report.pdf
 ```
 
@@ -199,9 +199,9 @@ elisa-analytics-decision-support/
 For a quick review:
 
 1. **Start with the dashboard** above to understand the final decision-support output.
-2. Review [`sql/`](sql/) to see data traceability, QC logic and analytical dataset construction.
-3. Open [`python/ELISA_Statistical_Analysis.ipynb`](python/ELISA_Statistical_Analysis.ipynb) for 4PL modelling and statistical evidence assessment.
-4. Read the [`report/ELISA_Analytics_Decision_Support_Report.pdf`](report/ELISA_Analytics_Decision_Support_Report.pdf) for the complete case study and scientific/business reasoning.
+2. Review [`SQL/`](SQL/) to see data traceability, QC logic and analytical dataset construction.
+3. Open [`Python/ELISA_Statistical_Analysis.ipynb`](Python/ELISA_Statistical_Analysis.ipynb) for 4PL modelling and statistical evidence assessment.
+4. Read the [`Report/ELISA_Analytics_Decision_Support_Report.pdf`](Report/ELISA_Analytics_Decision_Support_Report.pdf) for the complete case study and scientific/business reasoning.
 
 ---
 
@@ -219,7 +219,7 @@ Observed differences are therefore treated as **investigation signals requiring 
 
 For ELISA background, project requirements, analytical methodology, interpretation and future improvements, see:
 
-**[ELISA Analytics & Decision-Support Report](report/ELISA_Analytics_Decision_Support_Report.pdf)**
+**[ELISA Analytics & Decision-Support Report](Report/ELISA_Analytics_Decision_Support_Report.pdf)**
 
 ---
 
